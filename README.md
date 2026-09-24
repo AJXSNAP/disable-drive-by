@@ -10,4 +10,6 @@ Vehicle names use the vehicle's spawn name (model name), e.g. `kuruma`, `sultan`
 Works With:
 QB-Core
 
+QBX (Qbox)
+
 ESX
